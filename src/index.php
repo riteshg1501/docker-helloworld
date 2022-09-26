@@ -1,3 +1,7 @@
+<meta
+  http-equiv="Content-Security-Policy"
+  content="default-src 'self'; img-src https://*; child-src 'none';" />
+
 <?php
 
 echo "Hello, World from Docker! <br>";
